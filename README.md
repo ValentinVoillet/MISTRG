@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Raw data sets are in GSEXXXX and GSEXXXX. Raw matrices can be downloaded in the data folder.    
+Raw datasets are in GSEXXXX. Raw matrices can be downloaded in the data folder.   
 
 ### Prerequisites
 
@@ -11,7 +11,7 @@ Need R (3.5.2 or newer) and several packages (`Seurat` and `tidyverse`)
 
 ## Deployment
 
-There are four scripts in the Rscripts folder.  
+There are three scripts in the Rscripts folder.  
 
 * 1- __UMAP_BM-Liver-Lung-Tumor.R__: corresponding to the analysis of the MISTRG tissues (Bone marrow, Liver, Lung and Tumor)  
 
